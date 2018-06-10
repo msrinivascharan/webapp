@@ -7,6 +7,4 @@ public class Japp {
 		System.out.println("Hello world .. Git");
 		System.out.println("Hello world .. Accenture");
 	}
-
 }
-//c1
